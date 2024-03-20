@@ -1,0 +1,9 @@
+/.git
+/.yarn
+/benchmark/**/dist
+/coverage
+/tmp
+.next
+build
+node_modules
+.nyc_output
