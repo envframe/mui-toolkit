@@ -1,0 +1,10 @@
+{
+  "name": "@envframe/mui-toolkit",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Toolkit for efficient MUI development",
+  "main": "index.js",
+  "repository": "https://github.com/envframe/mui-toolkit",
+  "author": "Jonny Doyle",
+  "license": "MIT"
+}
